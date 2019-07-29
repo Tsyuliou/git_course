@@ -5,3 +5,6 @@ more content
 
 new line in feature branch
 second line in featue
+
+
+new line in master branch(testing resolve conflicts)
