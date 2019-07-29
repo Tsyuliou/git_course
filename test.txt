@@ -9,3 +9,4 @@ second line in featue
 
 10 line
 new line in master branch(testing resolve conflicts)
+line 10
