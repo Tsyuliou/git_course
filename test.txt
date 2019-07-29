@@ -2,6 +2,7 @@ some content
 more content
 555555555555
 
+conflict in feature
 
 new line in feature branch
 second line in featue
