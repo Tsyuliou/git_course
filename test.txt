@@ -6,3 +6,6 @@ conflict in feature
 
 new line in feature branch
 second line in featue
+
+line 10
+
