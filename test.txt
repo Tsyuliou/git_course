@@ -7,5 +7,5 @@ conflict in feature
 new line in feature branch
 second line in featue
 
-
+10 line
 new line in master branch(testing resolve conflicts)
